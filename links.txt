@@ -1,0 +1,9 @@
+Download bootstrap
+http://getbootstrap.com/getting-started/
+
+Html5Shiv
+http://code.google.com/p/html5shiv/
+
+Respond.min.js
+http://github.com/scottjehl/respond
+
